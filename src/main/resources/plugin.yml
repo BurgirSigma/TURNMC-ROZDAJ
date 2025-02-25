@@ -1,0 +1,11 @@
+name: DIGMC-ROZDAJ
+version: '1.0-SNAPSHOT'
+main: pl.quietemperor.Main
+api-version: '1.18'
+author: CzarnaKredka/QuietEmperor
+commands:
+  rozdaj:
+
+permissions:
+  digmc.commands.rozdaj:
+    default: op
